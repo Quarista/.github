@@ -1,13 +1,16 @@
 <div align="center">
-  <a><img src="https://github.com/user-attachments/assets/0eae75f2-3acf-4438-b131-a0313238172b" alt="logo" width="200"></a>
+ <!-- <a><img src="https://github.com/user-attachments/assets/0eae75f2-3acf-4438-b131-a0313238172b" alt="logo" width="200"></a> -->
   
-  # Quarista™
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0ca0fdb1-c808-436a-911f-6300ec6d0669">
   
-  Your service, production ready!
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-  [Equabin for Public](https://equabin.vercel.app/) •
-  [Project DAS](https://das.vercel.app/) •
+  A collective of fresh developers currently building in stealth. Stay tuned
+  
+  [Equabin for Public](https://equabin.vercel.app/)  • 
+  [Project DAS](https://das.vercel.app/)  •
   [Equabin Mobile](https://dustbin-management-system.web.app/)
   
-  ### [_Contact Us!_](mailto:quaristatechuse@gmail.com)
+  ### [_Be Involved!_](mailto:quaristatechuse@gmail.com)
 </div>
